@@ -1,0 +1,7 @@
+git clone
+mkdr
+git add
+git commit -m
+git remote add origin
+git remote set-url
+git push -u origin main
